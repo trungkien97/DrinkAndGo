@@ -16,7 +16,7 @@ namespace DrinkAndGo.Data.Mocks
                 return new List<Drink> {
                     new Drink
                     {
-                        Name = "Nuoc cam 1 ne",
+                        Name = "Nuoc cam 11",
                         Price = 1000500,
                         ShortDescription = "Day la nuoc cam 1",
                         LongDescription = "Day la nuoc cam 1 ne ne",

@@ -27,3 +27,6 @@ C:\Users\dtkien\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp3.0\Drink
 C:\Users\dtkien\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp3.0\DrinkAndGo.dll
 C:\Users\dtkien\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp3.0\DrinkAndGo.pdb
 C:\Users\dtkien\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp3.0\DrinkAndGo.csproj.CopyComplete
+C:\Users\dtkien\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dtkien\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dtkien\source\repos\DrinkAndGo\DrinkAndGo\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
